@@ -1,3 +1,11 @@
-
+header .container-fluid {
+  justify-content: end;
+}
+header #navbarOptions {
+  justify-content: end;
+}
+header #navbarOptions ul li a {
+  font-size: 20px;
+}
 
 /*# sourceMappingURL=styles.css.map */
